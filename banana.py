@@ -1,1 +1,1 @@
-print("Jelly World")
+print("Belly World")
